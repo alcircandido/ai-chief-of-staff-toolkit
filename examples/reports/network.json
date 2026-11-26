@@ -1,0 +1,12 @@
+{
+ "desk": "network",
+ "read": {"mail": 6, "calendar": 3},
+ "new": [
+  {"text": "A new contact agreed to a short call next week and asked for times.", "source": "mail thread t-204", "date": "2026-01-10"}
+ ],
+ "needs_you": [
+  {"title": "Pick a time for the call with a new contact", "step": "Pick one of the times offered", "due": "2026-01-14", "goal": "network", "suggestion": "Offer Jan 14 at 10:00 and Jan 15 at 12:30.", "source": "mail thread t-204", "thread": "t-204"}
+ ],
+ "done": [],
+ "could_not_read": []
+}

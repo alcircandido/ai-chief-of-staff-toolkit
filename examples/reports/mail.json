@@ -1,0 +1,10 @@
+{
+ "desk": "mail",
+ "read": {"mail": 31},
+ "new": [
+  {"text": "Two reply drafts are ready in the drafts folder: the dentist's office and the venue.", "source": "drafts folder", "date": "2026-01-12"}
+ ],
+ "needs_you": [],
+ "done": [],
+ "could_not_read": []
+}

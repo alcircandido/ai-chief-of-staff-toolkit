@@ -1,0 +1,16 @@
+{
+ "mail": [
+  {"thread": "t-311", "from": "the school office", "date": "2026-01-11", "subject": "Field trip on Jan 22: reply by Jan 20", "unread": true},
+  {"thread": "t-204", "from": "a new contact", "date": "2026-01-10", "subject": "Re: a short call next week?", "unread": false},
+  {"thread": "t-118", "from": "the dentist's office", "date": "2026-01-08", "subject": "Form to sign before Jan 16", "unread": false},
+  {"thread": "t-150", "from": "the venue", "date": "2026-01-09", "subject": "Room for the March talk", "unread": false}
+ ],
+ "calendar": [
+  {"start": "2026-01-14T09:30", "end": "2026-01-14T10:30", "title": "Appointment"},
+  {"start": "2026-01-15T15:00", "end": "2026-01-15T16:00", "title": "Call"}
+ ],
+ "school_portal": [
+  {"date": "2026-01-09", "item": "Math homework set 4", "status": "handed in"},
+  {"date": "2026-01-12", "item": "Early closing on Jan 19", "status": "notice"}
+ ]
+}

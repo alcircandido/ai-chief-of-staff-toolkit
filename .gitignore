@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+out-demo/
+data/
+rules/slices/
+.DS_Store

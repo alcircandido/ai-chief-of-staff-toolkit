@@ -1,0 +1,27 @@
+{
+ "headline": "Three decisions today: the talk outline, the field trip, a call time",
+ "read": {"family": 14, "network": 9, "mail": 31},
+ "decisions": [
+  {"id": "talk-outline", "question": "Approve the outline for the March talk?", "suggestion": "Yes. It covers the three points in the organizer's brief.", "yes_starts": "The worker marks the outline final and drafts the slide list for your review.", "goal": "speaking", "blocks": true},
+  {"id": "new", "title": "Answer the school about the field trip", "question": "Say yes to the field trip on Fri Jan 22?", "suggestion": "Yes. Nothing else is on the family calendar that day.", "yes_starts": "The worker prepares the reply to the school as a draft. You press Send.", "goal": "family", "due": "2026-01-20", "thread": "t-311"},
+  {"id": "call-time", "question": "Offer these times for the call with the new contact?", "suggestion": "Yes, both.", "yes_starts": "The worker drafts the reply with the times. You press Send.", "goal": "network", "offers": ["2026-01-14T10:00", "2026-01-15T12:30"]},
+  {"id": "invoice-january", "question": "Send the January invoice?", "suggestion": "Yes.", "yes_starts": "The worker prepares the draft.", "goal": "money"},
+  {"id": "gym-plan", "question": "Renew the gym plan?", "suggestion": "Cancel. No visit is on the calendar since November.", "yes_starts": "The worker drafts the cancel note.", "goal": "health"},
+  {"id": "tax-folder", "question": "Start the tax folder now?", "suggestion": "Yes.", "yes_starts": "The worker lists the papers to collect.", "goal": "money"}
+ ],
+ "plan": [
+  "Before 9:00: the three decisions on this page",
+  "10:30 to 11:00: sign the dentist form, due Fri Jan 16",
+  "After lunch: read the two reply drafts and press Send on the ones you agree with"
+ ],
+ "heads_up": [
+  "The school closes early on Jan 19.",
+  "Two reply drafts wait in your drafts folder."
+ ],
+ "ledger_ops": [
+  {"op": "add", "title": "Sign the dentist form", "owner": "you", "needs": "Sign the form and send it back", "goal": "family", "due": "2026-01-16", "thread": "t-118"},
+  {"op": "add", "title": "Book the car service", "owner": "you", "needs": "Pick a day in the last week of January", "goal": "no goal", "due": "2026-01-30"},
+  {"op": "done", "id": "old-row-99", "note": "the reports show it as finished"}
+ ],
+ "ideas": []
+}

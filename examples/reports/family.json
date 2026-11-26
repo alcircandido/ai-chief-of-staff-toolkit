@@ -1,0 +1,13 @@
+{
+ "desk": "family",
+ "read": {"school_portal": 2, "mail": 2, "calendar": 10},
+ "new": [
+  {"text": "The school asks for a yes or no on the field trip of Jan 22, by Jan 20.", "source": "mail thread t-311", "date": "2026-01-11"},
+  {"text": "Math homework set 4 shows as handed in.", "source": "school portal", "date": "2026-01-09"}
+ ],
+ "needs_you": [
+  {"title": "Answer the school about the field trip", "step": "Say yes or no to the field trip", "due": "2026-01-20", "goal": "family", "suggestion": "Yes. Nothing else is on the family calendar that day.", "source": "mail thread t-311", "thread": "t-311"}
+ ],
+ "done": [],
+ "could_not_read": []
+}
